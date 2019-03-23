@@ -1,4 +1,7 @@
 {
-    "EmailOrPhone": "dummy@site.com",
-    "DOB": "08/15/1945"
+    "Hero": true,
+    "Char": {
+        "counter": null,
+        "perks": "not found"
+    }
 }
